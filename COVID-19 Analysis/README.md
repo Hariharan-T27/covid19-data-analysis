@@ -77,8 +77,8 @@ plotly
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/your-username/COVID19-Analysis.git
-cd COVID19-Analysis
+git clone https://github.com/Hariharan-T27/covid19-data-analysis.git
+cd COVID-19_Analysis
 ```
 
 2. Install dependencies:
